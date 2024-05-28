@@ -1,0 +1,11 @@
+.contactus-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 19.5px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}

@@ -1,0 +1,238 @@
+.swiftsimwave3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 19px;
+}
+.swiftsimwave-frame {
+  width: 94.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.7px;
+  box-sizing: border-box;
+}
+.db139ae3d9347288599d26937f0372-icon3,
+.mastersvg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+}
+.mastersvg-icon3 {
+  top: 30px;
+  object-fit: cover;
+}
+.db139ae3d9347288599d26937f0372-parent1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.apple-paysvg-icon3,
+.paynowsvg-icon3 {
+  position: absolute;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+}
+.apple-paysvg-icon3 {
+  top: 0;
+  object-fit: cover;
+}
+.paynowsvg-icon3 {
+  top: 30px;
+}
+.apple-paysvg-parent1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.e2694400ff3043e19cd888bd045333-icon3,
+.paypalsvg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+}
+.paypalsvg-icon3 {
+  top: 30px;
+  object-fit: cover;
+}
+.e2694400ff3043e19cd888bd045333-parent1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.discoversvg-icon3,
+.samsung-paysvg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.samsung-paysvg-icon3 {
+  top: 30px;
+}
+.discoversvg-parent1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.d854878c8ba246f7a7f955c624ead4-icon3,
+.shopee-paysvg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.shopee-paysvg-icon3 {
+  top: 30px;
+}
+.d854878c8ba246f7a7f955c624ead4-parent1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.dc3ccc5c01043c581393fc034132a4-icon3,
+.google-paysvg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.dc3ccc5c01043c581393fc034132a4-icon3 {
+  top: 30px;
+}
+.google-paysvg-parent1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.b9fac56bd43d6a869af9d6f806bd8-icon3,
+.visasvg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.visasvg-icon3 {
+  top: 30px;
+}
+.b9fac56bd43d6a869af9d6f806bd8-parent1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.jcbsvg-icon3,
+.maestrosvg-icon3 {
+  align-self: stretch;
+  width: 35px;
+  position: relative;
+  border-radius: 5px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 22px;
+}
+.jcbsvg-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.df9757029c64cf6adcffdeb378e6f6-icon3,
+.visa-electronsvg-icon3 {
+  align-self: stretch;
+  width: 35px;
+  position: relative;
+  border-radius: 5px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 22px;
+}
+.frame-parent24,
+.visa-electronsvg-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.visa-electronsvg-parent1 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent24 {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-parent23 {
+  width: 379px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 8px;
+}
+.container-frame,
+.container13,
+.frame-parent23 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.container13 {
+  width: 1460px;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 10px 30px 30px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  gap: 20px;
+}
+.container-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: left;
+  font-size: 12px;
+  color: rgba(25, 49, 112, 0.8);
+  font-family: Poppins;
+}
+@media screen and (max-width: 750px) {
+  .container13 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent23 {
+    flex-wrap: wrap;
+  }
+}

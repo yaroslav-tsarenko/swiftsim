@@ -1,0 +1,217 @@
+.overlayshadow {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.backgroundIcon {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 3;
+}
+.rectangle {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  display: none;
+  z-index: 2;
+}
+.rectangle1,
+.rectangle2,
+.rectangle3,
+.rectangle4,
+.rectangle5 {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  display: none;
+  z-index: 3;
+}
+.rectangle2,
+.rectangle3,
+.rectangle4,
+.rectangle5 {
+  z-index: 4;
+}
+.rectangle3,
+.rectangle4,
+.rectangle5 {
+  z-index: 5;
+}
+.rectangle4,
+.rectangle5 {
+  z-index: 6;
+}
+.rectangle5 {
+  z-index: 7;
+}
+.b5e0681fcd324b9882f20ddfb770deIcon {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  display: none;
+  z-index: 8;
+}
+.rectangle6,
+.rectangle7 {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  display: none;
+  z-index: 9;
+}
+.rectangle7 {
+  z-index: 10;
+}
+.indonesiaEsim {
+  position: relative;
+  line-height: 22.4px;
+  display: inline-block;
+  min-width: 105.2px;
+}
+.heading3 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+  z-index: 1;
+}
+.from290Usd {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #193170;
+  display: inline-block;
+  min-width: 111px;
+  z-index: 1;
+}
+.background,
+.backgroundInner,
+.heading3Parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading3Parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.5px;
+}
+.background,
+.backgroundInner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.background {
+  border-radius: 16px;
+  background-color: #fffcfa;
+  flex-direction: column;
+  padding: 0 0 20.5px;
+  position: relative;
+  gap: 20px;
+}
+.overlayshadow1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.backgroundIcon1 {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.southKoreaEsim {
+  position: relative;
+  line-height: 22.4px;
+  display: inline-block;
+  min-width: 121.2px;
+}
+.heading31 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+  z-index: 1;
+}
+.from390Usd {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #193170;
+  display: inline-block;
+  min-width: 111px;
+  z-index: 1;
+}
+.heading3Group {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.5px;
+}
+.background1,
+.backgroundChild,
+.backgroundParent,
+.heading3Group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.backgroundChild {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.background1,
+.backgroundParent {
+  flex-direction: column;
+  gap: 20px;
+}
+.background1 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fffcfa;
+  padding: 0 0 20.5px;
+  position: relative;
+}
+.backgroundParent {
+  flex: 1;
+  text-align: left;
+  font-size: 14px;
+  color: #29252c;
+  font-family: Poppins;
+}

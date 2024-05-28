@@ -1,0 +1,55 @@
+.c812d45a1b7456695c833b05522dc2Icon {
+  width: 271.2px;
+  height: 271.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.southKoreaEsim,
+.usd {
+  position: relative;
+  line-height: 24px;
+}
+.usd {
+  font-size: 20px;
+  line-height: 30px;
+  color: #1a1c1e;
+  display: inline-block;
+  min-width: 99px;
+}
+.newZealandLabel,
+.newZealandPrice,
+.overlayshadow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.newZealandPrice {
+  flex-direction: column;
+  gap: 6px;
+}
+.newZealandLabel,
+.overlayshadow {
+  flex-direction: row;
+  padding: 0 20px;
+}
+.overlayshadow {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 20px;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #29252c;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .usd {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

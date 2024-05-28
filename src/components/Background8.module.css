@@ -1,0 +1,191 @@
+.frameWrapper {
+  width: 413.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 51px;
+  box-sizing: border-box;
+  min-width: 413.90000000000146px;
+  min-height: 326px;
+  max-width: 100%;
+}
+.heading2 {
+  position: relative;
+  line-height: 38.4px;
+  font-weight: 600;
+}
+.heading2AdvantagesWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.frameGroup,
+.frameParent {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  flex: 1;
+  flex-direction: column;
+  gap: 40.6px;
+  min-width: 277px;
+  font-size: 32px;
+  color: #193170;
+}
+.frameParent {
+  width: 896.7px;
+  flex-direction: row;
+  gap: 56.5px;
+}
+.link25f64d155931460f96d5791 {
+  height: 148.9px;
+  width: 148.9px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link25f64d155931460f96d5791Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 71px 0 70px;
+}
+.unlimitedDataPlans {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 19.2px;
+  font-weight: 600;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.unlimitedDataPlansWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 16px 0 17px;
+}
+.highSpeed5glte,
+.unlimited128kbpsAfterward {
+  display: block;
+}
+.highSpeed5glteContainer {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frameContainer,
+.frameDiv {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frameDiv {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 9.8px;
+}
+.frameContainer {
+  align-items: flex-start;
+  gap: 19.9px;
+}
+.background,
+.backgroundInner,
+.frameContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+.backgroundInner {
+  height: 325.8px;
+  width: 290.1px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.background {
+  align-self: stretch;
+  background-color: #f8f8f8;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 49.3px 276px 50.3px;
+  box-sizing: border-box;
+  gap: 118.5px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1800px) {
+  .background {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .frameWrapper {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+  }
+  .background {
+    padding-left: 138px;
+    padding-right: 138px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .background {
+    gap: 59px;
+    padding: 32px 69px 33px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .frameGroup {
+    gap: 20px;
+  }
+  .frameParent {
+    gap: 28px;
+  }
+  .link25f64d155931460f96d5791Wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .unlimitedDataPlans {
+    font-size: 19px;
+    line-height: 15px;
+  }
+  .background {
+    gap: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,95 @@
+.containerIcon {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  border-radius: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.avatarImage {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 4px 0 5px;
+}
+.listIcon {
+  align-self: stretch;
+  height: 16px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.avatarImageParent {
+  width: 89.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frameWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.iHaveUsed {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 20.21px;
+}
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25.4px;
+}
+.laganaMartin {
+  position: relative;
+  line-height: 20.21px;
+}
+.laganaMartinUsWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 6px;
+  color: rgba(41, 37, 44, 0.6);
+}
+.item {
+  width: 453.3px;
+  border-radius: 20px;
+  border: 1px solid #d3e7eb;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 47px 34px 129px;
+  gap: 39.8px;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: center;
+  font-size: 13.5px;
+  color: #29252c;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .item {
+    gap: 20px;
+    padding-top: 31px;
+    padding-bottom: 84px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,756 @@
+.svg-icon {
+  position: absolute;
+  top: 1190.7px;
+  left: 540px;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+.how-to-remove {
+  margin: 0;
+  position: absolute;
+  top: 1193.7px;
+  left: 578px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  width: 327.1px;
+  height: 42px;
+}
+.svg-icon1 {
+  position: absolute;
+  top: 1238.7px;
+  left: 540px;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+.may-i-know {
+  position: absolute;
+  top: 1241.7px;
+  left: 578px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  width: 427px;
+  height: 21px;
+}
+.svg-icon2 {
+  position: absolute;
+  top: 1286.7px;
+  left: 540px;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+.how-do-i,
+.set-up-your {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.how-do-i {
+  top: 1289.7px;
+  left: 578px;
+  line-height: 21px;
+  width: 184.2px;
+  height: 21px;
+}
+.set-up-your {
+  margin: 0;
+  top: 1364.7px;
+  left: 833.8px;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 600;
+  font-family: inherit;
+  text-align: center;
+  justify-content: center;
+  width: 253px;
+}
+.svg-icon3 {
+  position: absolute;
+  top: 1440.7px;
+  left: 540px;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+.how-to-activatesetup {
+  position: absolute;
+  top: 1443.7px;
+  left: 578px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  width: 272px;
+  height: 21px;
+}
+.svg-icon4 {
+  position: absolute;
+  top: 1488.7px;
+  left: 540px;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+.how-to-set {
+  position: absolute;
+  top: 1491.7px;
+  left: 578px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  width: 305px;
+  height: 21px;
+}
+.svg-icon5 {
+  position: absolute;
+  top: 1536.7px;
+  left: 540px;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+.how-to-activatesetup1,
+.troubleshooting {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.how-to-activatesetup1 {
+  top: 1539.7px;
+  left: 578px;
+  line-height: 21px;
+  width: 311px;
+  height: 21px;
+}
+.troubleshooting {
+  margin: 0;
+  top: 1614.7px;
+  left: 834.9px;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 600;
+  font-family: inherit;
+  text-align: center;
+  justify-content: center;
+  width: 251px;
+}
+.svg-icon6 {
+  position: absolute;
+  top: 1690.7px;
+  left: 540px;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+.i-got-the {
+  margin: 0;
+  position: absolute;
+  top: 1693.7px;
+  left: 578px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  width: 624.1px;
+  height: 21px;
+}
+.c9203cc782e418795d3d836ecd394c-icon {
+  position: absolute;
+  top: 106.7px;
+  left: 0;
+  width: 1920px;
+  height: 364px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.heading-2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 600;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.heading-2-were-here-to-help-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 37px 0 38px;
+}
+.you-can-also {
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19.8px;
+  max-width: 100%;
+}
+.faqs,
+.svg {
+  position: relative;
+}
+.faqs {
+  line-height: 36px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 80px;
+}
+.svg {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+}
+.fastest-solution-if {
+  position: relative;
+  line-height: 21px;
+}
+.fastest-solution-if-my-esim-do-wrapper,
+.svg-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fastest-solution-if-my-esim-do-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.svg-parent {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.svg1 {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.what-devices-support {
+  position: relative;
+  line-height: 21px;
+}
+.svg-group,
+.what-devices-support-esim-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.what-devices-support-esim-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.svg-group {
+  flex-direction: row;
+  gap: 10px;
+}
+.svg2 {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.when-can-i {
+  position: relative;
+  line-height: 21px;
+}
+.svg-container,
+.when-can-i-install-my-esim-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.when-can-i-install-my-esim-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.svg-container {
+  flex-direction: row;
+  gap: 10px;
+}
+.svg3 {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.how-do-i1 {
+  position: relative;
+  line-height: 21px;
+}
+.how-do-i-set-up-the-esim-on-my-wrapper,
+.svg-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.how-do-i-set-up-the-esim-on-my-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.svg-parent1 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.how-long-should,
+.svg4 {
+  margin: 0;
+  position: relative;
+}
+.svg4 {
+  cursor: pointer;
+  height: 28px;
+  width: 28px;
+}
+.how-long-should {
+  line-height: 21px;
+}
+.frame-parent2,
+.how-long-should-i-wait-for-esi-wrapper,
+.svg-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.how-long-should-i-wait-for-esi-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+  min-width: 260px;
+}
+.frame-parent2,
+.svg-parent2 {
+  align-self: stretch;
+}
+.svg-parent2 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.frame-parent2 {
+  flex-direction: column;
+  gap: 20px;
+}
+.svg5,
+.svg6,
+.svg7 {
+  cursor: pointer;
+  margin: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+}
+.svg-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.can-i-have {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  max-width: 100%;
+}
+.im-experiencing-the {
+  margin: 0;
+}
+.how-fast-is,
+.im-experiencing-the {
+  position: relative;
+  line-height: 21px;
+}
+.can-i-have-multiple-phones-sca-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 27px;
+}
+.can-i-have-multiple-phones-sca-parent,
+.frame-parent3,
+.frame-wrapper1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+  min-width: 263px;
+}
+.frame-parent3 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.svg8 {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.should-i-switch {
+  position: relative;
+  line-height: 21px;
+}
+.should-i-switch-on-data-roamin-wrapper,
+.svg-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.should-i-switch-on-data-roamin-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 38px);
+}
+.svg-parent4 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.svg9,
+.will-my-physical {
+  margin: 0;
+  position: relative;
+}
+.svg9 {
+  cursor: pointer;
+  height: 28px;
+  width: 28px;
+}
+.will-my-physical {
+  line-height: 21px;
+}
+.svg-parent5,
+.will-my-physical-sim-still-wor-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.will-my-physical-sim-still-wor-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 38px);
+}
+.svg-parent5 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.svg10 {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.are-voice-call {
+  position: relative;
+  line-height: 21px;
+}
+.are-voice-call-and-sms-service-wrapper,
+.svg-parent6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.are-voice-call-and-sms-service-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.svg-parent6 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.svg11 {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.can-i-renew {
+  position: relative;
+  line-height: 21px;
+}
+.can-i-renew-or-extend-the-data-wrapper,
+.svg-parent7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.can-i-renew-or-extend-the-data-wrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 38px);
+}
+.svg-parent7 {
+  flex-direction: row;
+  gap: 10px;
+  max-width: 100%;
+}
+.svg12 {
+  cursor: pointer;
+  margin: 0;
+  height: 28px;
+  width: 28px;
+  position: relative;
+}
+.if-i-lost {
+  position: relative;
+  line-height: 21px;
+}
+.if-i-lost-my-esim-qr-code-wha-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.svg-parent8 {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-div,
+.frame-parent1,
+.svg-parent8 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.frame-div {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 17px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 14px;
+}
+.faqs-parent {
+  width: 460.4px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 40px;
+}
+.faqs-parent,
+.frame-container,
+.frame-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: 30px;
+  color: #29252c;
+}
+.frame-parent {
+  width: 604.7px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 160.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-wrapper,
+.instance-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper {
+  width: 1684.7px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.instance-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 139.3px;
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  font-family: Poppins;
+}
+.horizontalborder {
+  position: absolute;
+  top: 2304.2px;
+  left: 41px;
+  border-bottom: 1px solid #29252c;
+  box-sizing: border-box;
+  width: 1864px;
+  height: 5px;
+}
+.footer {
+  align-self: stretch;
+  height: 526.4px;
+  background-color: #d3e7eb;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 132px;
+  box-sizing: border-box;
+  gap: 40.1px;
+  max-width: 100%;
+}
+.svg-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.rewards {
+  position: relative;
+  line-height: 24px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 59px;
+}
+.background,
+.background-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.background {
+  border-radius: 100px;
+  background-color: #f9d6a5;
+  justify-content: flex-start;
+  padding: 13px 9px 13px 16px;
+  gap: 8px;
+  z-index: 1;
+}
+.background-wrapper {
+  justify-content: flex-end;
+  padding: 0 24px;
+  margin-top: -47.7px;
+}
+.footer-parent {
+  position: absolute;
+  top: 1748.5px;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+  color: #1f1e1e;
+  font-family: "Helvetica Neue";
+}
+.faq {
+  width: 100%;
+  height: 1200px;
+  position: relative;
+  background-color: #fffcfa;
+  overflow-y: auto;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 14px;
+  color: #29252c;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1050px) {
+  .set-up-your,
+  .troubleshooting {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .heading-2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .faqs {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .instance-parent {
+    gap: 70px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent {
+    gap: 80px;
+  }
+  .instance-parent {
+    gap: 35px;
+  }
+  .footer {
+    height: auto;
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .set-up-your,
+  .troubleshooting {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .heading-2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .faqs {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .faqs-parent {
+    gap: 20px;
+  }
+  .frame-parent {
+    gap: 40px;
+  }
+  .faq {
+    height: auto;
+    min-height: 1200;
+  }
+}

@@ -1,0 +1,154 @@
+.heading3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.heading3CompatibleDevicesWrapper {
+  width: 1420px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 30px;
+}
+.youMayCheck {
+  margin: 0;
+  position: relative;
+  line-height: 26px;
+}
+.youMayCheckTheListOfCompWrapper {
+  width: 1420px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+  color: #0a826a;
+}
+.apple {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 60px;
+}
+.appleWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6px 0 0;
+}
+.borderIcon {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 16px;
+}
+.horizontalborder {
+  width: 1420px;
+  border-top: 1px solid rgba(66, 209, 181, 0.2);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 0;
+  min-height: 94px;
+  gap: 20px;
+  max-width: 100%;
+  text-align: left;
+}
+.android {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 82px;
+}
+.androidWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6px 0 0;
+}
+.borderIcon1 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 16px;
+}
+.background,
+.horizontalborder1 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.horizontalborder1 {
+  width: 1420px;
+  border-top: 1px solid rgba(66, 209, 181, 0.2);
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 19px 0 0.3px;
+  gap: 20px;
+  text-align: left;
+}
+.background {
+  align-self: stretch;
+  background-color: #f5fcfb;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 60px 20px;
+  gap: 19.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 3;
+  text-align: center;
+  font-size: 20px;
+  color: #193170;
+  font-family: Poppins;
+}
+@media screen and (max-width: 900px) {
+  .heading3 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading3 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .apple {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .horizontalborder {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .android {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .horizontalborder1 {
+    flex-wrap: wrap;
+  }
+  .background {
+    padding-top: 39px;
+    padding-bottom: 39px;
+    box-sizing: border-box;
+  }
+}

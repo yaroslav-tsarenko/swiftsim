@@ -1,0 +1,60 @@
+.d38359ffd2e47fdb6e6c314828c91eIcon {
+  width: 271.2px;
+  height: 271.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.hongKong,
+.usd {
+  position: relative;
+  line-height: 24px;
+}
+.usd {
+  font-size: 20px;
+  line-height: 30px;
+  color: #1a1c1e;
+  display: inline-block;
+  min-width: 98.3px;
+}
+.hongKongMacaoParent,
+.overlayshadow,
+.overlayshadowInner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hongKongMacaoParent {
+  flex-direction: column;
+  gap: 6px;
+}
+.overlayshadow,
+.overlayshadowInner {
+  flex-direction: row;
+  padding: 0 20px;
+}
+.overlayshadow {
+  flex: 1;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 20px;
+  box-sizing: border-box;
+  gap: 20px;
+  min-width: 176px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 16px;
+  color: #29252c;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .usd {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,136 @@
+.xpng-icon1 {
+  width: 473.3px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.heading-25 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 109px;
+}
+.swiftsimwave-is-committed {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 25.6px;
+}
+.were-committed-to {
+  margin: 0;
+  width: 795.6px;
+  position: relative;
+  line-height: 25.6px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.about-us-description,
+.heading-2-about-us-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.about-us-description {
+  gap: 21.8px;
+  font-size: 16px;
+}
+.heading-2-about-us-parent {
+  gap: 14.7px;
+}
+.join-us-on {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+}
+.about-us-content,
+.about-us-content-wrapper,
+.background19 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.about-us-content {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 28px;
+}
+.about-us-content-wrapper,
+.background19 {
+  box-sizing: border-box;
+}
+.about-us-content-wrapper {
+  width: 816.5px;
+  flex-direction: column;
+  padding: 61.2px 0 0;
+  min-width: 816.5px;
+}
+.background19 {
+  align-self: stretch;
+  background-color: #fff;
+  flex-direction: row;
+  padding: 0 250px;
+  gap: 60px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1725px) {
+  .xpng-icon1 {
+    flex: 1;
+  }
+  .about-us-content-wrapper {
+    flex: 1;
+    min-width: 100%;
+  }
+  .background19 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .background19 {
+    padding-left: 125px;
+    padding-right: 125px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .background19 {
+    gap: 30px;
+    padding-left: 62px;
+    padding-right: 62px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-25 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .about-us-content-wrapper {
+    padding-top: 40px;
+    box-sizing: border-box;
+  }
+  .background19 {
+    gap: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

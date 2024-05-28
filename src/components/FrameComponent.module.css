@@ -1,0 +1,63 @@
+.svgIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.rewards {
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: "Helvetica Neue";
+  color: #1f1e1e;
+  text-align: left;
+  display: inline-block;
+  min-width: 59px;
+}
+.background,
+.backgroundIcon {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.background {
+  cursor: pointer;
+  border: 0;
+  padding: 13px 9px 13px 16px;
+  background-color: #f9d6a5;
+  right: 24px;
+  bottom: 32px;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.background:hover {
+  background-color: #e0bd8c;
+}
+.backgroundIcon {
+  width: 60px;
+  height: 60px;
+  right: 40px;
+  bottom: 88px;
+  border-radius: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.footerParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  margin-top: -1px;
+  text-align: left;
+  font-size: 14px;
+  color: #193170;
+  font-family: Poppins;
+}

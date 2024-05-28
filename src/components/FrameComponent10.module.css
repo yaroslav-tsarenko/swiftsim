@@ -1,0 +1,72 @@
+.link4d5c9eaa28f3485eaa5bc14 {
+  height: 148.9px;
+  width: 148.9px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link4d5c9eaa28f3485eaa5bc14Wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.customerSupport {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 19.2px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.customerSupportWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 64px;
+}
+.hereNoBots,
+.hourWhatsappSupport,
+.needHelpContact {
+  display: block;
+}
+.needHelpContactContainer {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+}
+.frameGroup,
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 9.8px;
+}
+.frameParent {
+  align-items: flex-start;
+  gap: 19.9px;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .customerSupport {
+    font-size: 19px;
+    line-height: 15px;
+  }
+  .customerSupportWrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

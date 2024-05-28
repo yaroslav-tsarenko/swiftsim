@@ -1,0 +1,287 @@
+.whySwiftsimwave,
+.whyTitle {
+  display: flex;
+  justify-content: center;
+}
+.whySwiftsimwave {
+  margin: 0;
+  width: 315.4px;
+  position: relative;
+  font-size: inherit;
+  line-height: 38.4px;
+  font-weight: 600;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whyTitle {
+  width: 1100.2px;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.link11375xpng {
+  width: 345px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  max-width: 100%;
+}
+.convenience {
+  width: 183.3px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.activateAndManage {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+}
+.convenienceContent,
+.link11375xpngParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.convenienceContent {
+  align-self: stretch;
+  gap: 22px;
+}
+.link11375xpngParent {
+  width: 408px;
+  gap: 20px;
+  max-width: 100%;
+}
+.link21375xpng {
+  width: 345px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  max-width: 100%;
+}
+.esimsAreMore,
+.security {
+  margin: 0;
+  position: relative;
+}
+.security {
+  width: 214.7px;
+  font-size: inherit;
+  line-height: 19.2px;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.esimsAreMore {
+  align-self: stretch;
+  font-size: 16px;
+  line-height: 25.6px;
+}
+.link21375xpngParent,
+.securityContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.securityContent {
+  align-self: stretch;
+  gap: 16px;
+}
+.link21375xpngParent {
+  width: 375px;
+  gap: 20px;
+  max-width: 100%;
+}
+.link31375xpng {
+  width: 345px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  max-width: 100%;
+}
+.flexibility {
+  width: 204.4px;
+  position: relative;
+  line-height: 19.2px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.easilySwitchBetween {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+}
+.flexibilityContent,
+.flexibilityParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.flexibilityParent {
+  align-self: stretch;
+  gap: 10px;
+}
+.flexibilityContent {
+  width: 369.5px;
+  gap: 20px;
+  max-width: 100%;
+}
+.link4Sinm2375xpng {
+  align-self: stretch;
+  height: 345px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.globalConnectivity {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.travelSeamlesslyWith {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+}
+.flexibilityContentParent,
+.globalConnectivityParent,
+.link4Sinm2375xpngParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.globalConnectivityParent {
+  align-self: stretch;
+  gap: 24px;
+}
+.flexibilityContentParent,
+.link4Sinm2375xpngParent {
+  width: 347.5px;
+  gap: 19px;
+  max-width: 100%;
+}
+.flexibilityContentParent {
+  width: 1088px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.background,
+.frameParent,
+.swiftSimWaveBenefits {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 69px 334px;
+  min-height: 1038px;
+  font-size: 24px;
+}
+.background,
+.swiftSimWaveBenefits {
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.background {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-end;
+  padding: 56.3px 409px 72.6px 391px;
+  gap: 21.1px;
+  z-index: 3;
+}
+.swiftSimWaveBenefits {
+  flex: 1;
+  align-items: flex-start;
+  padding: 368.9px 0 0;
+  flex-shrink: 0;
+  margin-left: -1920px;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1400px) {
+  .frameParent {
+    gap: 167px;
+  }
+  .background {
+    padding-top: 368.90000000000146px;
+    padding-bottom: 47px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .flexibilityContentParent {
+    flex-wrap: wrap;
+  }
+  .background {
+    padding-left: 195px;
+    padding-right: 204px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .whySwiftsimwave {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frameParent {
+    gap: 83px;
+  }
+  .background {
+    padding-left: 97px;
+    padding-right: 102px;
+    padding-bottom: 31px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .whySwiftsimwave {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .convenience,
+  .flexibility,
+  .globalConnectivity,
+  .security {
+    font-size: 19px;
+    line-height: 15px;
+  }
+  .frameParent {
+    gap: 42px;
+  }
+}

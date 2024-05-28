@@ -1,0 +1,100 @@
+.link9375xpng {
+  height: 148.9px;
+  width: 148.9px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link9375xpngWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 38px 0 37px;
+}
+.installTheQr {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.installTheQrWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 31px 0 32px;
+}
+.activateYourPlan,
+.qrCodeFrom {
+  margin: 0;
+}
+.activateYourPlanContainer {
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.background,
+.frameParent,
+.stepsIcons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.background,
+.stepsIcons {
+  align-items: flex-start;
+  gap: 19.9px;
+}
+.background {
+  flex: 0.6313;
+  background-color: #f9f9f8;
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 60px 362px 60.2px 346px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 2;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1125px) {
+  .background {
+    padding-left: 173px;
+    padding-right: 181px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .background {
+    padding-left: 86px;
+    padding-right: 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .installTheQr {
+    font-size: 19px;
+    line-height: 15px;
+  }
+  .background {
+    padding-top: 39px;
+    padding-bottom: 39px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,142 @@
+.overlayshadow {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.backgroundIcon {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle,
+.rectangle1,
+.rectangle2,
+.rectangle3,
+.rectangle4,
+.rectangle5 {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  display: none;
+}
+.b5e0681fcd324b9882f20ddfb770deIcon {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  display: none;
+}
+.rectangle6,
+.rectangle7 {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  display: none;
+}
+.usa {
+  position: relative;
+  line-height: 23px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 28px;
+}
+.heading3 {
+  align-self: stretch;
+  height: 22.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from390Usd {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #193170;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 111px;
+}
+.heading3Parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.5px;
+}
+.linkInner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.background,
+.link,
+.linkInner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 20.5px;
+  gap: 20px;
+  cursor: pointer;
+  z-index: 1;
+}
+.background {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fffcfa;
+  flex-direction: row;
+  position: relative;
+}
+.backgroundContainer,
+.backgroundGroup,
+.backgroundParent,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.backgroundContainer,
+.backgroundGroup,
+.backgroundParent {
+  flex: 1;
+  flex-direction: column;
+}
+.frameParent {
+  height: 623.3px;
+  width: 1400px;
+  flex-direction: row;
+  padding: 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #29252c;
+  font-family: Poppins;
+}

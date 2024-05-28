@@ -1,0 +1,179 @@
+.heading2 {
+  margin: 0;
+  width: 253.4px;
+  position: relative;
+  font-size: inherit;
+  line-height: 38.4px;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.heading2ScanAQrCodeWrapper {
+  width: 1420px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.link1b3640b9636f43449ad4731 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.goToSettings {
+  width: 206.3px;
+  position: relative;
+  line-height: 25.6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.goToSettingsCellularWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.link1b3640b9636f43449ad4731Parent {
+  height: 498.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19.7px;
+  max-width: 100%;
+}
+.link6b573894e70b42a49c10c6c {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.tapAddCellular {
+  width: 188.1px;
+  position: relative;
+  line-height: 25.6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.tapAddCellularPlanWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.link6b573894e70b42a49c10c6cParent {
+  height: 498.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19.7px;
+  max-width: 100%;
+}
+.link3aeb567fa1544a9786d85e7 {
+  align-self: stretch;
+  height: 453.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.useYourIphone {
+  position: relative;
+  line-height: 26px;
+}
+.useYourIphoneToScanThePuWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 3px 0 4px;
+}
+.link3aeb567fa1544a9786d85e7Parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 19.7px;
+}
+.background,
+.frameParent,
+.link3aeb567fa1544a9786d85e7Parent {
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  width: 1420px;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 30px;
+  grid-template-columns: repeat(3, minmax(340px, 1fr));
+  font-size: 16px;
+  color: #000;
+}
+.background {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 59.3px 20px 59.9px;
+  box-sizing: border-box;
+  gap: 40.7px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+  text-align: center;
+  font-size: 32px;
+  color: #193170;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1350px) {
+  .frameParent {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(340px, 589px));
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frameParent {
+    gap: 15px;
+    grid-template-columns: minmax(340px, 1fr);
+  }
+  .background {
+    gap: 20px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

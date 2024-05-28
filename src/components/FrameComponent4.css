@@ -1,0 +1,165 @@
+.heading-24,
+.heading-3 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-24 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.heading-3 {
+  font-size: 14.3px;
+  line-height: 17.2px;
+}
+.check-out-our,
+.device-supports-esim {
+  display: block;
+}
+.check-out-our-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+}
+.heading-31,
+.unfortunately-the-samsung {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-31 {
+  font-size: 14.3px;
+  line-height: 17.2px;
+}
+.unfortunately-the-samsung {
+  margin: 0;
+  line-height: 20px;
+}
+.heading-32 {
+  position: relative;
+  font-size: 14.3px;
+  line-height: 17.2px;
+}
+.not-supported,
+.unfortunately-the-iphone {
+  display: block;
+}
+.unfortunately-the-iphone-container {
+  margin: 0;
+  line-height: 19.2px;
+}
+.heading-33,
+.no-only-the,
+.unfortunately-the-iphone-container {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-33 {
+  font-size: 14.3px;
+  line-height: 17.2px;
+}
+.no-only-the {
+  margin: 0;
+  line-height: 20px;
+}
+.span3 {
+  color: #e03e2d;
+}
+.is-the-iphones-container {
+  position: relative;
+  font-size: 14.3px;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.dual-physical-sims {
+  color: #00b490;
+}
+.heading-34,
+.iphone-13-mini1,
+.unfortunately-iphones-from-container {
+  margin: 0;
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-34 {
+  font-size: 14.3px;
+  line-height: 17.2px;
+  font-weight: 700;
+}
+.active-sims-starting,
+.multiple-esims-are {
+  display: block;
+}
+.multiple-esims-are-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-35 {
+  font-size: 14.3px;
+  line-height: 21.5px;
+}
+.heading-35,
+.heading-36,
+.yes-iphone-15 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.yes-iphone-15 {
+  margin: 0;
+  line-height: 24px;
+}
+.heading-36 {
+  font-size: 14.3px;
+  line-height: 17.2px;
+}
+.needed-without-having,
+.yes-esim-compatible {
+  display: block;
+}
+.yes-esim-compatible-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.list-of-laptops {
+  text-decoration: underline;
+  color: #00b490;
+}
+.learn-more-about-container {
+  margin: 0;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-2-strong-frequentl-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #29252c;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .heading-24 {
+    font-size: 19px;
+    line-height: 29px;
+  }
+}
